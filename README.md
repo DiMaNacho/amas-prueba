@@ -1,3 +1,0 @@
-# Titulo
-
-Edición de prueba.
